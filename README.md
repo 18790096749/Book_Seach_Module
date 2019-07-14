@@ -1,6 +1,6 @@
 
 Introduce:
-The book search moudle use for the user and  business service.
+The book search moudle used for the user and  business service.
 
 Function:
 1、the serach function for user to find the fitable books from  the elastic search cluster 
